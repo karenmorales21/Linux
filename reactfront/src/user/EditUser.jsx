@@ -41,6 +41,8 @@ const CompEditUser = () => {
         setcelular(res.data.celular_aprendiz)
         setcorreo(res.data.correo_aprendiz)
     }
+
+    // la función “update” se ejecutará cuando el usuario envíe el formulario. ¿
     return (
         <div className='container'>
             <h3>Editar usuario</h3>
