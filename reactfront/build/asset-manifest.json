@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ac8ca00.css",
+    "main.js": "/static/js/main.842a24b2.js",
+    "static/js/787.bb6f6888.chunk.js": "/static/js/787.bb6f6888.chunk.js",
+    "static/media/logo-cultupaz.jpg": "/static/media/logo-cultupaz.8e4a3a24275abdb373e8.jpg",
+    "index.html": "/index.html",
+    "main.6ac8ca00.css.map": "/static/css/main.6ac8ca00.css.map",
+    "main.842a24b2.js.map": "/static/js/main.842a24b2.js.map",
+    "787.bb6f6888.chunk.js.map": "/static/js/787.bb6f6888.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ac8ca00.css",
+    "static/js/main.842a24b2.js"
+  ]
+}
